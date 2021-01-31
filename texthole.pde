@@ -1,10 +1,7 @@
 /*
 TODO:
 - make initial velocity tangent to circle to make spiral effect
-- when hole gets as big as screen, gameover screen with big text particle explosion and "gameover" text
-- make particles that include text for player to type with double-text effect
 - remove unnecessary this.
-- increase rate of letters spawning as time goes on
 - give letters more tangentially spin than particals so that they last longer before hitting the center
 - cleanup code
 */
